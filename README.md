@@ -1,4 +1,14 @@
-## Hi there 👋
+Hi, I'm François 👋
+Master's graduate in Data Engineering from La Rochelle Université, with 2 years of experience in data processing and visualisation at Scan Datamining.
+In 2026, I led a team that won 1st place at Ai4industry — we built an end-to-end NLP pipeline for the MAIF: transcription, speaker diarization and automatic summarisation of phone calls, using Python, Whisper, Pyannote and Llama3. I presented the project at the Dataquitaine conference shortly after.
+My work sits at the intersection of software development and data science — I care as much about clean, robust Python code as I do about model performance.
+What I work with:
+
+🐍 Python — my main tool, from data pipelines to ML workflows
+🧠 NLP & LLM — information extraction, summarisation, local inference
+⚙️ MLOps — MLFlow, HyperOpt, Grafana, Docker
+🗄️ SQL / PostgreSQL
+📊 Data visualisation — R, D3.js
 
 <!--
 **fDefives/fDefives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
