@@ -5,9 +5,13 @@ My work sits at the intersection of software development and data science — I 
 What I work with:
 
 🐍 Python — my main tool, from data pipelines to ML workflows
+
 🧠 NLP & LLM — information extraction, summarisation, local inference
+
 ⚙️ MLOps — MLFlow, HyperOpt, Grafana, Docker
+
 🗄️ SQL / PostgreSQL
+
 📊 Data visualisation — R, D3.js
 
 <!--
